@@ -1,0 +1,42 @@
+.minhafoto{
+    width: 320px;
+        
+}
+
+.body {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.primeiroTexto{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    position: relative;
+    bottom: 115px;
+    width: 900px;
+    
+}
+
+.titulo2 {
+    margin: auto;
+    position: relative;
+    bottom: 100px;
+    
+}
+
+.divdalista {
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+}
+
+.lista{
+    list-style: none;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    
+}
