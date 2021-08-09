@@ -1,2 +1,2 @@
-# Redes-Sociais
- repositório teste de redes sociais
+# Redes Profissionais
+ Conheça minhas redes sociais/profissionais! 
